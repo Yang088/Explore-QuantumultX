@@ -1,2 +1,2 @@
 # Explore-QuantumultX
-Quantumult X—从小白到大白
+🙃Quantumult X—从小白到大白🙂
