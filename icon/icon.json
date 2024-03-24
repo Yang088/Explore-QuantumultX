@@ -1,0 +1,9 @@
+{
+    "name": "icon",
+    "description": "By yknig",
+    "icons":[
+        {
+            "name":"Nutstore", "url":"https://raw.githubusercontent.com/yknig/QuanX/main/icon/Nutstore.png"
+        }
+    ]
+}
