@@ -4,7 +4,9 @@
     "icons":[
         {
             "name":"Nutstore", "url":"https://raw.githubusercontent.com/yknig/QuanX/main/icon/Nutstore.png"
+        },
+        {
+            "name":"Facebook", "url":"https://raw.githubusercontent.com/yknig/QuanX/main/icon/Facebook.png"
         }
-        
     ]
 }
